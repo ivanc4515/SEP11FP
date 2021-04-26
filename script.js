@@ -40,6 +40,18 @@ var wallR = Bodies.rectangle(820, 300, 50, 810, {
 // };
 
 //seperators
+// var separator1 = Bodies.rectangle(180, 580, 10, 100, {
+//     isStatic: true
+// });
+// var separator2 = Bodies.rectangle(340, 580, 10, 100, {
+//     isStatic: true
+// });
+// var separator3 = Bodies.rectangle(500, 580, 10, 100, {
+//     isStatic: true
+// });
+// var separator4 = Bodies.rectangle(660, 580, 10, 100, {
+//     isStatic: true
+// });
 var separator1 = Bodies.rectangle(150, 580, 10, 100, {
     isStatic: true
 });
